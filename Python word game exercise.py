@@ -13,10 +13,6 @@ SCRABBLE_LETTER_VALUES = {
     'y': 4, 'z': 10
 }
 
-# -----------------------------------
-# Helper code
-# (you don't need to understand this helper code)
-
 WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
@@ -43,10 +39,6 @@ def getFrequencyDict(sequence):
     for x in sequence:
         freq[x] = freq.get(x,0) + 1
     return freq
-
-
-# (end of helper code)
-# -----------------------------------
 
 #
 # Problem #1: Scoring a word
