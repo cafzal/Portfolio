@@ -3,7 +3,7 @@ package hw5;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class NQueens {
+public class NQueensProblem {
 // Check if current queen is safe
 static boolean isSafe(int[][] board, int r, int c) {
 	for (int i=0; i<=r; i++) {
