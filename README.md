@@ -17,6 +17,7 @@ Focused on applications of data analysis and artificial intelligence to water re
 ## Programming Course Assignments
   * MITx: 6.00.1x: Introduction to Python
      - [Word Game Exercise](https://github.com/cafzal/Portfolio/blob/master/Python%20word%20game%20exercise.py)
+     - [Hangman Game](https://github.com/cafzal/Portfolio/blob/master/HangmanGame.py)
     
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
