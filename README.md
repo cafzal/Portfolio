@@ -9,7 +9,7 @@ Focused on applications of data analysis and artificial intelligence to water re
     - [DDS Algorithm in R](https://github.com/cafzal/Portfolio/blob/master/SWAT_DDS_Algorithm.R) adapted from Shoemaker and Tolson
     * <img src="https://github.com/cafzal/Portfolio/blob/master/flow.png" height="150" width="250"></img>
     * [MCMC Algorithm in R](https://github.com/cafzal/Portfolio/blob/master/SWAT_MCMC_Flow.R) 
-    * <img src="https://github.com/cafzal/Portfolio/blob/master/paramScatterLikelihood.png" height="150" width="400"></img>
+    * <img src="https://github.com/cafzal/Portfolio/blob/master/paramScatterLikelihood.png" height="150" width="450"></img>
   
   * Wiele South Stream Climate Assessment for Engineering Project
     - [Stream Climate Assessment in R](https://github.com/cafzal/Portfolio/blob/master/WiehleClimateAssessment.R)
