@@ -11,7 +11,7 @@ Focused on applications of data analysis and artificial intelligence to water re
   * Wiele South Stream Climate Assessment
     - Evaluated projected climate change impacts for a water systems engineering project;
     - [Stream Climate Assessment in R](https://github.com/cafzal/Portfolio/blob/master/WiehleClimateAssessment.R)
-      <img src="https://github.com/cafzal/Portfolio/blob/master/Wstorm.jpg", style="width:600px;height:400px;"></img>
+      <img src="https://github.com/cafzal/Portfolio/blob/master/Wstorm.jpg" height="42" width="42"></img>
 
 ## Programming Course Assignments
   * MITx: 6.00.1x: Introduction to Python
