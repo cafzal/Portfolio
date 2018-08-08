@@ -20,7 +20,7 @@ Focused on applications of data analysis and artificial intelligence to water re
     
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
-     - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="200" width="200"></img>
+     - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
      - [Linked List Operations](https://github.com/cafzal/Portfolio/blob/master/LinkedListExercises.java)
      - [Merge Sort Algorithm Implementation](https://github.com/cafzal/Portfolio/blob/master/MergeSortPractice.java)
      - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)
