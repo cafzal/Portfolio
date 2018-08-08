@@ -7,7 +7,7 @@ Focused on applications of data analysis and artificial intelligence to water re
   * Model Calibration Algorithms
     - Calibrated a SWAT model using an existing algorithm to analyze a watershed and determine the hydrological impacts of a solar farm. 
     - [DDS Algorithm in R](https://github.com/cafzal/Portfolio/blob/master/SWAT_DDS_Algorithm.R)
-    - <img src="https://github.com/cafzal/Portfolio/blob/master/paramScatterLikelihood.png" height="150" width="300"></img>
+    - <img src="https://github.com/cafzal/Portfolio/blob/master/paramScatterLikelihood.png" height="150" width="400"></img>
     - <img src="https://github.com/cafzal/Portfolio/blob/master/flow.png" height="150" width="250"></img>
   
   * Wiele South Stream Climate Assessment
@@ -21,6 +21,7 @@ Focused on applications of data analysis and artificial intelligence to water re
     
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
+     - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="250" width="250"></img>
      - [Linked List Operations](https://github.com/cafzal/Portfolio/blob/master/LinkedListExercises.java)
      - [Merge Sort Algorithm Implementation](https://github.com/cafzal/Portfolio/blob/master/MergeSortPractice.java)
      - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)
