@@ -4,9 +4,9 @@ Focused on applications of data analysis and artificial intelligence to water re
 [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
 
 ## Data Analysis
-   * Model Calibration Algorithms
-    - Calibrated a SWAT model using an existing algorithm to analyze a watershed and determine the hydrological impacts of a solar farm. 
-    - [DDS Algorithm in R](https://github.com/cafzal/Portfolio/blob/master/SWAT_DDS_Algorithm.R)
+  * Model Calibration Algorithms
+     - Calibrated a SWAT model using an existing algorithm to analyze a watershed and determine the hydrological impacts of a solar farm. 
+     - [DDS Algorithm in R](https://github.com/cafzal/Portfolio/blob/master/SWAT_DDS_Algorithm.R)
   
   * Wiele South Stream Climate Assessment
     - Evaluated projected climate change impacts for a water systems engineering project;
