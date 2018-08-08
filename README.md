@@ -14,7 +14,11 @@ Focused on applications of data analysis and artificial intelligence to water re
   * Wiele South Stream Climate Assessment for Engineering Project
     - [Stream Climate Assessment in R](https://github.com/cafzal/Portfolio/blob/master/WiehleClimateAssessment.R)
     - <img src="https://github.com/cafzal/Portfolio/blob/master/Wstorm.jpg" height="150" width="250"></img>
-
+    
+  * Sierra Nevada Climate, Snow and Streamflow Modeling
+    - [Report](https://github.com/cafzal/Portfolio/blob/master/Afzal%20Ecohydrology%20Research%20Project.pdf)
+    - <img src="https://github.com/cafzal/Portfolio/blob/master/projpcp.jpg" height="150" width="250"></img><img src="https://github.com/cafzal/Portfolio/blob/master/sierramap.jpg" height="150" width="250"></img>
+    
 ## Programming Course Assignments
   * MITx: 6.00.1x: Introduction to Python
      - [Word Game Exercise](https://github.com/cafzal/Portfolio/blob/master/Python%20word%20game%20exercise.py)
