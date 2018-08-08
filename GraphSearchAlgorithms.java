@@ -7,6 +7,7 @@ import java.util.Queue;
 import hw7.Graph2.Node;
 
 public class GraphSearchAlgorithms {
+	// Algorithm recursively traverses graph starting at root, exploring as far as possible in a path before backtracking.
 	public void dfs(Node node) {
 		System.out.print(node.val+" -> ");
 		node.visited = true;
@@ -17,7 +18,7 @@ public class GraphSearchAlgorithms {
 		}
 	}
 	
-	
+	// Algorithm iteratively traverses graph starting at root level by level.
 	public void bfs(Node node) {
 		Queue<Node> queue = new LinkedList<Node>();
 		HashSet<Node> visited = new HashSet<Node>();
