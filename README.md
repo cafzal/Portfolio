@@ -21,6 +21,7 @@ Focused on applications of data analysis and artificial intelligence to water re
     
 ## Programming Course Assignments
   * MITx: 6.00.1x: Introduction to Python
+     - [Cipher Exercise](https://github.com/cafzal/Portfolio/blob/master/CipherExercise.py)
      - [Word Game Exercise](https://github.com/cafzal/Portfolio/blob/master/Python%20word%20game%20exercise.py)
      - [Hangman Game](https://github.com/cafzal/Portfolio/blob/master/HangmanGame.py)
     
@@ -33,6 +34,7 @@ Focused on applications of data analysis and artificial intelligence to water re
      - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)
 
 ## Upcoming Coursework
-  * Machine Learning (fall 2018)
-  * Computational Optimization (fall 2018)
-  * Decision Analysis (fall 2018)
+  * Machine Learning (Cornell University, fall 2018)
+  * Computational Optimization (Cornell University, fall 2018)
+  * Decision Analysis (Cornell University, fall 2018)
+  * Deep Learning Specialization (Coursera, winter 2018)
