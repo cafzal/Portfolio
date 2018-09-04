@@ -1,8 +1,13 @@
 # Portfolio of Cameron Afzal
 Master of Engineering student at Cornell University. Graduating winter 2018. 
-Focused on applications of data analysis and artificial intelligence to water resources systems engineering and infrastructure.
   * <b>[Resume](https://github.com/cafzal/Portfolio/blob/master/Cameron%20Afzal%20resume%20P.pdf)</b>
   * [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
+Focused on applications of data analysis and artificial intelligence to water resources systems engineering and infrastructure. Other interests:
+  * Decision analysis
+  * Watershed modeling
+  * Strategic planning
+  * Programming
+  * Optimization
 
 ## Data Analysis
   * SWAT Hydrological Model Calibration Algorithms for Cornell Research Project
