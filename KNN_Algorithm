@@ -22,10 +22,15 @@ def l2distance(X,Z=None):
     n,d1=X.shape
     m,d2=Z.shape
     assert (d1==d2), "Dimensions of input vectors must match!"
-    # Your code goes here ..
+    
+    # Find Gram matrix of input matrices, i.e. inner product
     G = np.dot(X,Z.T)
+    
+    # Sum square matrix entries
     S = np.sum(X**2, axis=1)[:, np.newaxis]
     R = np.sum(Z**2, axis=1)
+    
+    # Compute Euclidian distance between matrices
     Dsq = S + R - 2*G
     Dsq=np.absolute(Dsq)
     D = np.sqrt(Dsq)
@@ -48,11 +53,15 @@ def findknn(xTr,xTe,k):
     dists = Euclidean distances to the respective nearest neighbors
     """
 
-    edm=l2distance(xTr,xTe)
-    edm_sort=np.sort(edm,axis=0)
-    index_edm=np.argsort(edm,axis=0)
+    # Find Euclidian distances from each test vector to each training point
+    edm = l2distance(xTr,xTe)
+
+    # Sort distances and respective indices
+    edm_sorted = np.sort(edm,axis=0)
+    edm_index = np.argsort(edm,axis=0)
     
-    indices=index_edm[:k,:].astype(int)
-    dists=edm_sort[:k,:]
-    
+    # Record distance and index of each to k nearest neighbors    
+    indices = edm_index[:k,:].astype(int)
+    dists = edm_sorted[:k,:]
+
     return indices, dists
