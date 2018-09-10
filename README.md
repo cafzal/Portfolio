@@ -26,7 +26,7 @@ Master of Engineering student at Cornell University. Graduating winter 2018.
     
 ## Programming Course Assignments
   * Cornell CS 5780: Machine Learning
-     - [KNN Algorithm]()
+     - [KNN Algorithm](https://github.com/cafzal/Portfolio/blob/master/KNN_Algorithm)
   
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
