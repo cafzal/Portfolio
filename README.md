@@ -25,18 +25,23 @@ Master of Engineering student at Cornell University. Graduating winter 2018.
     - <img src="https://github.com/cafzal/Portfolio/blob/master/projpcp.jpg" height="150" width="250"></img><img src="https://github.com/cafzal/Portfolio/blob/master/sierramap.jpg" height="150" width="250"></img>
     
 ## Programming Course Assignments
-  * MITx: 6.00.1x: Introduction to Python
-     - [Cipher Exercise](https://github.com/cafzal/Portfolio/blob/master/CipherExercise.py)
-     - [Word Game Exercise](https://github.com/cafzal/Portfolio/blob/master/Python%20word%20game%20exercise.py)
-     - [Hangman Game](https://github.com/cafzal/Portfolio/blob/master/HangmanGame.py)
-    
+  * Cornell CS 5780: Machine Learning
+     - [KNN Algorithm]()
+  
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
      - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
      - [DFS and BFS Algorithms](https://github.com/cafzal/Portfolio/blob/master/GraphSearchAlgorithms.java)
      - [Linked List Operations](https://github.com/cafzal/Portfolio/blob/master/LinkedListExercises.java)
      - [Merge Sort Algorithm Implementation](https://github.com/cafzal/Portfolio/blob/master/MergeSortPractice.java)
-     - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)
+     - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)     
+     
+  * MITx: 6.00.1x: Introduction to Python
+     - [Cipher Exercise](https://github.com/cafzal/Portfolio/blob/master/CipherExercise.py)
+     - [Word Game Exercise](https://github.com/cafzal/Portfolio/blob/master/Python%20word%20game%20exercise.py)
+     - [Hangman Game](https://github.com/cafzal/Portfolio/blob/master/HangmanGame.py)
+    
+
 
 ## Upcoming Coursework
   * Machine Learning (Cornell University, fall 2018)
