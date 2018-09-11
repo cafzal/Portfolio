@@ -24,9 +24,14 @@ Master of Engineering student at Cornell University. Graduating winter 2018.
     - [Report](https://github.com/cafzal/Portfolio/blob/master/Afzal%20Ecohydrology%20Research%20Project.pdf)
     - <img src="https://github.com/cafzal/Portfolio/blob/master/projpcp.jpg" height="150" width="250"></img><img src="https://github.com/cafzal/Portfolio/blob/master/sierramap.jpg" height="150" width="250"></img>
     
-## Programming Course Assignments
+## Assignments
   * Cornell CS 5780: Machine Learning
-     - [KNN Algorithm](https://github.com/cafzal/Portfolio/blob/master/KNN_Algorithm)
+     - Project code available upon request, including:
+          * KNN Algorithm
+          * Perceptron 
+  
+  * Cornell CEE 5980: Decision Analysis
+     - Decision Support System for Inter-Basin Transfers (upcoming!)
   
   * Cornell CS 2110: Object Oriented Programming and Data Structures
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
