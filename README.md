@@ -10,20 +10,20 @@ Product engineer at Optimatics. I develop software for water systems infrastruct
 ## Optimization
 
 ## Algorithms
-     * Graph
-      - Dijkstra
-      - Kruskal / Prim
-     
-     * Search
-     
-     * Approximation
-      - Traveling Salesman with Simulated Annealing
-     
-     * Randomization
-     
-     * Recursive Backtracking
-     - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
-     - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
+ * Graph
+  - Dijkstra
+  - Kruskal / Prim
+
+ * Search
+
+ * Approximation
+  - Traveling Salesman with Simulated Annealing
+
+ * Randomization
+
+ * Recursive Backtracking
+ - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
+ - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
    
 
 
