@@ -17,6 +17,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - Robust risk toolkit: financial management
  - Task assignment problem: Computing clusters
  - Max flow: utility network
+ - Stochastic program: reservoir operations
 
 ## Other Algorithms
  - Traveling Salesman with Simulated Annealing
