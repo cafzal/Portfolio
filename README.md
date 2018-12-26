@@ -4,34 +4,27 @@ Product engineer at Optimatics. I develop software for water systems infrastruct
   * [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
   * Focused on applications of artificial intelligence to complex systems under uncertainty.
 
-
 ## Machine Learning
-
+ - K means clustering
+ - Satellite image classification neural network
+ - Kernel SVM
+ 
 ## Optimization
+ - NSGA-II evolutionary algorithm
+ - Robust financial risk toolkit
+ - Computing cluster task assignment problem
 
 ## Algorithms
- * Graph
-  - Dijkstra
-  - Kruskal / Prim
-
- * Search
-
- * Approximation
-  - Traveling Salesman with Simulated Annealing
-
- * Randomization
-
- * Recursive Backtracking
+ - Traveling Salesman with Simulated Annealing
+ - Max Flow
  - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
  - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
    
-
-
 ## Coursework
   * Introduction to Computer Science Using Python
-  * Object Oriented Programming and Data Structures
-  * Machine Learning (Cornell University, fall 2018)
-  * Computational Optimization (Cornell University, fall 2018)
-  * Decision Analysis (Cornell University, fall 2018)
+  * Object-Oriented Programming and Data Structures
+  * Machine Learning
+  * Computational Optimization
+  * Decision Analysis
   * Design and Analysis of Algorithms
-  * Deep Learning Specialization (Coursera, 2019)
+  * Deep Learning Specialization
