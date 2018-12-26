@@ -10,15 +10,15 @@ Product engineer at Optimatics. I develop software for water systems infrastruct
 ## Optimization
 
 ## Algorithms
-     - Graph
+     * Graph
      
-     - Search
+     * Search
      
-     - Approximation
+     * Approximation
      
-     - Randomization
+     * Randomization
      
-     - Recursive Backtracking
+     * Recursive Backtracking
      - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
      - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
      - [Lineage Recursive Exercise](https://github.com/cafzal/Portfolio/blob/master/Lineage.java)     
