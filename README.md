@@ -1,8 +1,7 @@
 # Portfolio of Cameron Afzal
-Product engineer at Optimatics. I develop software for water systems infrastructure optimization and decision support and work with clients on expanding the features and applications of our platform. 
+Product engineer at Optimatics. I develop software for water systems infrastructure optimization and decision support and work with clients on expanding the features and applications of our platform. My career focus is on applications of artificial intelligence to complex systems under uncertainty.
   * <b>[Resume](https://github.com/cafzal/Portfolio/blob/master/Cameron%20Afzal%20resume%20A.pdf)</b>
   * [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
-  * Focused on applications of artificial intelligence to complex systems under uncertainty.
 
 ## Machine Learning
  - K means clustering
