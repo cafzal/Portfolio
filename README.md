@@ -2,7 +2,7 @@
 As a product engineer at Optimatics I develop software for water infrastructure optimization and decision support and work with clients on expanding the features and applications of our platform. We work on the interface of software and systems engineering. My career goal is to harness emerging applications of artificial intelligence to manage complex systems under uncertainty. I aim to tackle the gray area of decision making through my philosophy background and computer science skills.
   * <b>[Resume](https://github.com/cafzal/Portfolio/blob/master/Cameron%20Afzal%20resume%20A.pdf)</b>
   * [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
-  * Below are algorithms I've implemented for the purpose of skill development only (i.e. not for work or classes).
+  * Below are algorithms I've implemented from scratch for the purpose of skill development only (i.e. not for work or classes).
 
 ## Machine Learning
  - K means clustering
@@ -14,9 +14,9 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  
 ## Optimization
  - NSGA-II evolutionary algorithm
- - Robust financial risk toolkit
- - Computing cluster task assignment problem
- - Max flow
+ - Robust risk toolkit: financial management
+ - Task assignment problem: Computing clusters
+ - Max flow: utility network
 
 ## Other Algorithms
  - Traveling Salesman with Simulated Annealing
