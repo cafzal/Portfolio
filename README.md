@@ -10,6 +10,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - Kernel SVM: spiral classification
  - Hidden Markov model: decision making process
  - Gaussian process regression: climate data trends
+ - Random forest
  
 ## Optimization
  - NSGA-II evolutionary algorithm
