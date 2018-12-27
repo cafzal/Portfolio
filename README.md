@@ -5,7 +5,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
   * Below are algorithms and projects I've implemented from scratch for the purpose of skill development only.
 
 ## Machine Learning
- - PCA and K means clustering
+ - [K means clustering](https://github.com/cafzal/Portfolio/blob/master/kMeansClustering.py)
  - Neural network: ocean shipping satellite image classification
  - Kernel SVM: spiral classification
  - Hidden Markov model: decision making process
