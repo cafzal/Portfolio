@@ -27,6 +27,8 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
  - Various Sorting algorithms
  - Various Search algorithms
+ 
+## Project Euler 
    
 ## Coursework
   * Introduction to Computer Science Using Python
