@@ -11,7 +11,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - Kernel SVC
  - Hidden Markov model: decision making process
  - Gaussian process regression: climate data trends
- - Random forest
+ - [Random forest](https://github.com/cafzal/Portfolio/blob/master/randomForest.py)
  
 ## Optimization
  - NSGA-II evolutionary algorithm
