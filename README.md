@@ -22,8 +22,11 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 
 ## Other Algorithms
  - Traveling Salesman with Simulated Annealing
+ - Knapsack Problem
  - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
  - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
+ - Various Sorting algorithms
+ - Various Search algorithms
    
 ## Coursework
   * Introduction to Computer Science Using Python
