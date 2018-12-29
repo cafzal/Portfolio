@@ -27,6 +27,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
  - [MergeSort](https://github.com/cafzal/Portfolio/blob/master/MergeSortPractice.java)
  - [Graph Search algorithms](https://github.com/cafzal/Portfolio/blob/master/GraphSearchAlgorithms.java)
+ - Convex Hull
  
 ## Project Euler 
    
