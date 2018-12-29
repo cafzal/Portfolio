@@ -16,7 +16,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  
 ## Optimization
  - NSGA-II evolutionary algorithm
- - Robust risk toolkit: financial management
+ - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)
  - Task assignment problem: Computing clusters
  - Max flow: utility network
  - [Stochastic program: reservoir operations](https://github.com/cafzal/Portfolio/blob/master/stochasticReservoir.py)
