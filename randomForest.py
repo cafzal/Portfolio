@@ -161,9 +161,9 @@ def buildTree(X,y,maxDepth=np.inf,obj):
     xT_right = X[right_idx,:]
         
     # Recursive calls to build tree: left and right
-    node.left = cart(xT_left,y_left,depth-1,w_left)
+    node.left = buildTree(xT_left,y_left,depth-1,w_left)
     node.left.parent = node
-    node.right = cart(xT_right,y_right,depth-1,w_right)
+    node.right = buildTree(xT_right,y_right,depth-1,w_right)
     node.right.parent = node
 
     return node
@@ -230,7 +230,7 @@ def randomForest(X, y, m, k=None, maxdepth=np.inf, subsample=True):
         y = y[rand_data]
 
         # Build tree with randomly sampled data
-        tree = cart(x,y,maxdepth,weights=None)
+        tree = buildTree(x,y,maxdepth,weights=None)
               
         # Add tree to forest
         forest.append(tree)
