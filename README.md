@@ -15,6 +15,8 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - [Gaussian process regression](https://github.com/cafzal/Portfolio/blob/master/GaussianProcess.py)
     - Project: climate data trends
  - Bayesian network
+    - Sample DAG
+    - [Naive Bayes](https://github.com/cafzal/Portfolio/blob/master/naiveBayes.py)
  - [Random forest](https://github.com/cafzal/Portfolio/blob/master/randomForest.py)
  
 ## Optimization
