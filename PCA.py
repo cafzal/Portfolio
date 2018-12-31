@@ -1,4 +1,5 @@
-# PCA function to map data X of dimensionality d into Z of lower dimensional space k given desired retention of variance 
+# Prinicipal Components Analysis function for dimensionality reduction
+# Maps data X of dimensionality d into Z of lower dimensional space k given desired retention of variance 
 def PCA(X,k=None,varRetained=None):
     # Ensure variance goal < 100%
     if varRetained is not None: assert varRetained < 1 
