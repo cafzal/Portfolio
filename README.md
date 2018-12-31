@@ -6,7 +6,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 
 ## Machine Learning
  - [K means clustering](https://github.com/cafzal/Portfolio/blob/master/kMeansClustering.py)
- - PCA
+ - [PCA](https://github.com/cafzal/Portfolio/blob/master/PCA.py)
  - Neural network: ocean shipping satellite image classification
  - Kernel SVM: spiral classification
  - Kernel SVC
