@@ -7,11 +7,13 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 ## Machine Learning
  - [K means clustering](https://github.com/cafzal/Portfolio/blob/master/kMeansClustering.py)
  - [PCA](https://github.com/cafzal/Portfolio/blob/master/PCA.py)
- - Neural network: ocean shipping satellite image classification
+ - Neural network
+    - Project: ocean shipping satellite image classification
  - Kernel SVM: spiral classification
  - Kernel SVC
  - Hidden Markov model: decision making process
- - Gaussian process regression: climate data trends
+ - [Gaussian process regression](https://github.com/cafzal/Portfolio/blob/master/GaussianProcess.py)
+    - Project: climate data trends
  - Bayesian network
  - [Random forest](https://github.com/cafzal/Portfolio/blob/master/randomForest.py)
  
@@ -19,7 +21,8 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - NSGA-II evolutionary algorithm
  - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)
  - Task assignment problem: Computing clusters
- - Max flow: utility network
+ - Max flow
+    - Project: utility network
  - [Stochastic program: reservoir operations](https://github.com/cafzal/Portfolio/blob/master/stochasticReservoir.py)
 
 ## Other Algorithms
