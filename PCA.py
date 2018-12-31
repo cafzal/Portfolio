@@ -26,11 +26,12 @@ def PCA(X,k=None,varRetained=None):
     totalVar = np.sum(s)
 
     # Helper function to determine degree of dimensional reduction d -> k
-    # Given desired variance retention in reduced dim data 
     def minDimensions(k,varRetained):
         U,s,V = np.linalg.svd(Y,full_matrices=False)
         totalVar_reduced = np.sum(s[0:k])
+        # Calculate fraction of variance retained
         if (totalVar_reduced/totalVar) < varRetained:
+            # If below desired variance retention in reduced dim data, increase dims k
             return minDimensions(k+1,varRetained)
         return k
     
