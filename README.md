@@ -7,11 +7,11 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 ## Machine Learning
  - [K means clustering](https://github.com/cafzal/Portfolio/blob/master/kMeansClustering.py)
  - [PCA](https://github.com/cafzal/Portfolio/blob/master/PCA.py) 
- <!--- - Neural network
+ - Neural network
     - Project: ocean shipping satellite image classification
  - Kernel SVM: spiral classification
  - Kernel SVC
- - Hidden Markov model: decision making process --->
+ - Hidden Markov model: decision making process 
  - [Gaussian process regression](https://github.com/cafzal/Portfolio/blob/master/GaussianProcess.py)
     - Project: climate data trends
  - Bayesian network
@@ -22,15 +22,15 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 ## Optimization
  - NSGA-II evolutionary algorithm
  - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)
- <!--- - Task assignment problem: Computing clusters
+ - Task assignment problem: Computing clusters
  - Max flow
-    - Project: utility network --->
+    - Project: utility network
  - [Stochastic program: reservoir operations](https://github.com/cafzal/Portfolio/blob/master/stochasticReservoir.py)
 
 ## Other Algorithms
- <!--- - Traveling Salesman with Simulated Annealing
+ - Traveling Salesman with Simulated Annealing
  - Knapsack Problem 
- - Convex Hull --->
+ - Convex Hull
  - [N Queens Problem](https://github.com/cafzal/Portfolio/blob/master/NQueensProblem.java)
  - <img src="https://github.com/cafzal/Portfolio/blob/master/Eight%20Queens%20Solution.png" height="150" width="150"></img>
  - [MergeSort](https://github.com/cafzal/Portfolio/blob/master/MergeSortPractice.java)
