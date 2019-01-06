@@ -6,8 +6,8 @@ As a product engineer at Optimatics I develop software for water infrastructure 
 
 ## Machine Learning
  - [K means clustering](https://github.com/cafzal/Portfolio/blob/master/kMeansClustering.py)
- - [PCA](https://github.com/cafzal/Portfolio/blob/master/PCA.py) <!--- 
- - Neural network
+ - [PCA](https://github.com/cafzal/Portfolio/blob/master/PCA.py) 
+ <!--- - Neural network
     - Project: ocean shipping satellite image classification
  - Kernel SVM: spiral classification
  - Kernel SVC
@@ -21,8 +21,8 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  
 ## Optimization
  - NSGA-II evolutionary algorithm
- - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)<!--- 
- - Task assignment problem: Computing clusters
+ - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)
+ <!--- - Task assignment problem: Computing clusters
  - Max flow
     - Project: utility network --->
  - [Stochastic program: reservoir operations](https://github.com/cafzal/Portfolio/blob/master/stochasticReservoir.py)
