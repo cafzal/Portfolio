@@ -1,4 +1,5 @@
 # This is my implementation of the NSGA-II evolutionary algorithm for multi-objective optimization.
+# (c) Cameron Afzal
 
 # References
 # [1] *Kalyanmoy Deb, Amrit Pratap, Sameer Agarwal, and T. Meyarivan*, |A Fast
@@ -9,6 +10,7 @@
 # Nondominated Sorting in Genetic Algorithms|, Evolutionary Computation 2 
 # (1994), no. 3, 221 ~ 248.
 
+import numpy as np
 
 # Initializes population of solutions
 def init_pop(pop_size,num_obj,obj_weights,normalize,num_DV,min_vals,max_vals):
