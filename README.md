@@ -1,5 +1,5 @@
 # Portfolio of Cameron Afzal
-As a product engineer at Optimatics I develop software for water infrastructure optimization and decision support and work with clients on expanding the features and applications of our platform. We collaborate on the interface of software and systems engineering. My career goal is to harness emerging applications of artificial intelligence to manage complex systems under uncertainty. I aim to tackle the gray area of decision making through my diverse background which includes philosophy and computer science skills.
+As a product engineer at Optimatics I help develop software for water infrastructure optimization and decision support, working with clients to expand the features and applications of our platform. My career goal is to harness emerging applications of artificial intelligence to manage complex systems under uncertainty. I aim to tackle the gray area of decision making through my diverse background which includes philosophy and computer science skills, interfacing big picture thinking with technical comprehension.
   * <b>[Resume](https://github.com/cafzal/Portfolio/blob/master/Cameron%20Afzal%20resume%20A.pdf)</b>
   * [My LinkedIn](https://www.linkedin.com/in/cameron-afzal-26a82a62/)
   * Below are algorithms and projects I've implemented from scratch for the purpose of skill development.
@@ -20,7 +20,7 @@ As a product engineer at Optimatics I develop software for water infrastructure 
  - [Random forest](https://github.com/cafzal/Portfolio/blob/master/randomForest.py)
  
 ## Optimization
- - NSGA-II evolutionary algorithm
+ - [NSGA-II evolutionary algorithm](https://github.com/cafzal/Portfolio/blob/master/NSGA-II.py)
  - [Robust opt. toolkit: financial risk management](https://github.com/cafzal/Portfolio/blob/master/robustFinancialRisk.py)
  - Task assignment problem: Computing clusters
  - Max flow
