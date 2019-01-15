@@ -9,6 +9,7 @@
 # Nondominated Sorting in Genetic Algorithms|, Evolutionary Computation 2 
 # (1994), no. 3, 221 ~ 248.
 
+
 # Initializes population of solutions
 def init_pop(pop_size,num_obj,obj_weights,normalize,num_DV,min_vals,max_vals):
     
@@ -20,11 +21,11 @@ def init_pop(pop_size,num_obj,obj_weights,normalize,num_DV,min_vals,max_vals):
     
     # Concatenate values so second axis of population array is all decision var and evaluated objective function values
     P = np.concatenate((decision_vals,objectives),axis=1)
-    
     P = P.tolist()
     
     # Return population of solutions in array size pop_size x (num_DV + num_obj)
     return P
+    
     
 # Evaluate objective functions of solution given decision variable values and exogenous function of the objective functions
 def eval_obj(decision_vars,num_obj,obj_weights,normalize):
@@ -51,6 +52,7 @@ def eval_obj(decision_vars,num_obj,obj_weights,normalize):
     
     # Returns weighted and potentially normalized objective function values
     return obj_vals_weighted
+    
     
 # Evaluates population of solution decision variable values to produce objective function values to compare fitness
 def eval_pop(decision_vars,num_obj,obj_weights,normalize):
@@ -146,6 +148,7 @@ def sort_pop(P,num_obj):
     # Return sorted Pareto front (2d list) and rank corresponding to each member of front (list)
     return F,rank
     
+    
 # Assigns distances for each solution in particular front to gauge and ultimately promote diversity in solutions space
 def crowding_dist(F,num_obj):
     # Number of individuals and objective values in front
@@ -187,6 +190,7 @@ def crowding_dist(F,num_obj):
     # Return distance array
     return distances
 
+
 # Sorts Pareto optimal front to ensure more fit and diverse solutions given rank and crowding distance
 def sort_front(F,rank,dists):
     # Initialize new front
@@ -216,6 +220,7 @@ def sort_front(F,rank,dists):
     
     # Return sorted front
     return F_new
+    
     
 # Produces offspring from parent population using reproductive processes of crossover and mutation
 # Inputs: array of decision variable and evaluated objective values for all solutions in parent population, number of objectives, weights,
@@ -359,6 +364,7 @@ def reproduction(parents,num_obj,obj_weights,normalize,num_DV,min_vals,max_vals,
             break
     
     return offspring
+   
     
 # Non-Dominated Sorting Genetic Algorithm (NSGA-II) by Deb 2002
 # Evaluates solutions comprising of decision variables to find optimal Pareto set of solutions for multiple objective functions
